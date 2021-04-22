@@ -141,4 +141,7 @@ dmypy.json
 # Ignore all local history of files
 **/.history
 
+# Project
+.dbdata
+
 # End of https://www.gitignore.io/api/python
